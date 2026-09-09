@@ -10,6 +10,6 @@ I'm currently developing my skills in data analysis, visualization, and applied 
 📈 Marketing & Business Strategy
 
 ## Technical Skills
-//Programming: Python, R, Java
-//Data & Analytics: RStudio, Microsoft Excel
-//Certification: Microsoft Excel Certified
+Programming: Python, R, Java. 
+Data & Analytics: RStudio, Microsoft Excel. 
+Certification: Microsoft Excel Certified. 
