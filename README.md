@@ -1,15 +1,15 @@
 ## Don Tran
-I'm a student at the University of Notre Dame, majoring in Global Affairs, with minors in Marketing and Data Science.
-I'm interested in the intersection of data, business, technology, and global issues, particularly how data-driven insights can help organizations make better decisions and create meaningful impact.
 
-I'm currently developing my skills in data analysis, visualization, and applied data science while using GitHub to document my projects, coursework, and continued learning.
+## Repository Purpose
+This repository serves as my Data Science Portfolio. It will contain projects that demonstrate my skills in data analysis, data visualization, statistical analysis, and machine learning. The purpose of this portfolio is to document my progress, organize my work, and showcase my ability to use data to answer questions and communicate meaningful insights.
 
-## Areas of Interest 
-📊 Data Science & Analytics
-🌎 Global Affairs & International Issues
-📈 Marketing & Business Strategy
+## Organization Plan
 
-## Technical Skills
-Programming: Python, R, Java. 
-Data & Analytics: RStudio, Microsoft Excel. 
-Certification: Microsoft Excel Certified. 
+As I add projects, I plan to organize the repository into folders based on the type of work:
+
+EDA/ – Exploratory data analysis, data cleaning, and initial investigations.
+Visualizations/ – Charts, graphs, dashboards, and other data visualizations.
+Models/ – Machine learning and statistical modeling projects.
+Datasets/ – Data files used in projects when appropriate.
+Notebooks/ – Jupyter notebooks containing analysis, code, and explanations.
+
