@@ -8,3 +8,8 @@ I'm currently developing my skills in data analysis, visualization, and applied 
 📊 Data Science & Analytics
 🌎 Global Affairs & International Issues
 📈 Marketing & Business Strategy
+
+## Technical Skills
+Programming: Python, R, Java
+Data & Analytics: RStudio, Microsoft Excel
+Certification: Microsoft Excel Certified
