@@ -7,9 +7,12 @@ This repository serves as my Data Science Portfolio. It will contain projects th
 
 As I add projects, I plan to organize the repository into folders based on the type of work:
 
-EDA/ – Exploratory data analysis, data cleaning, and initial investigations.
-Visualizations/ – Charts, graphs, dashboards, and other data visualizations.
-Models/ – Machine learning and statistical modeling projects.
-Datasets/ – Data files used in projects when appropriate.
-Notebooks/ – Jupyter notebooks containing analysis, code, and explanations.
+- EDA – Exploratory data analysis and data cleaning
 
+- Visualizations – Charts, graphs, and dashboards
+
+- Models – Machine learning and statistical models
+
+- Datasets – Data used for projects
+
+- Notebooks – Jupyter notebooks with code and explanations
