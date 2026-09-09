@@ -5,11 +5,11 @@ I'm interested in the intersection of data, business, technology, and global iss
 I'm currently developing my skills in data analysis, visualization, and applied data science while using GitHub to document my projects, coursework, and continued learning.
 
 ## Areas of Interest 
-#📊 Data Science & Analytics
-#🌎 Global Affairs & International Issues
-#📈 Marketing & Business Strategy
+📊 Data Science & Analytics
+🌎 Global Affairs & International Issues
+📈 Marketing & Business Strategy
 
 ## Technical Skills
-Programming: Python, R, Java
-Data & Analytics: RStudio, Microsoft Excel
-Certification: Microsoft Excel Certified
+//Programming: Python, R, Java
+//Data & Analytics: RStudio, Microsoft Excel
+//Certification: Microsoft Excel Certified
