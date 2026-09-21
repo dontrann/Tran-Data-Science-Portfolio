@@ -18,7 +18,7 @@ As I add projects, I plan to organize the repository into folders based on the t
 - Notebooks – Jupyter notebooks with code and explanations
 
 ## Semester Portfolio
-** World Happiness Report 2019**
+**World Happiness Report 2019**
 This project is part of my semester Data Science Portfolio. I created a Streamlit app using data from the 2019 World Happiness Report to practice working with datasets, building interactive filters, and displaying data in a simple web application.
 
 The goal of the app is to make it easy to explore how happiness scores differ between countries and how factors such as GDP, social support, health, and freedom relate to those scores.
