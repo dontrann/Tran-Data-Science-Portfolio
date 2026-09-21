@@ -45,4 +45,12 @@ Filters are located in the sidebar so users can easily explore different parts o
 
 First, make sure Streamlit and Pandas are installed:
 
+```bash
 pip install streamlit pandas
+```
+
+Then run the app from the main repository folder:
+
+```bash
+streamlit run basic_streamlit_app/main.py
+```
