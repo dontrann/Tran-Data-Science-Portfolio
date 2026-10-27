@@ -22,8 +22,6 @@ The three principles of tidy data are:
 To install the required libraries, use: "pip install pandas matplotlib seaborn"
 
 ## Dataset Description 
-The dataset used in this project is olympics_08_medalists.csv, which was provided as part of the class assignment. It contains information about medalists from the 2008 Summer Olympics.
-
 The original dataset contains 1,875 rows and 71 columns. It includes medalist names and separate columns for sports and genders, with medal values recorded as gold, silver, or bronze.
 
 To clean and organize the dataset, I:
