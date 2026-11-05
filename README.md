@@ -22,3 +22,12 @@ As I add projects, I plan to organize the repository into folders based on the t
 - This project is part of my semester Data Science Portfolio. I created a Streamlit app using data from the 2019 World Happiness Report to practice working with datasets, building interactive filters, and displaying data in a simple web application.
 
 - The goal of the app is to make it easy to explore how happiness scores differ between countries and how factors such as GDP, social support, health, and freedom relate to those scores.
+
+**Tidy Data Project - 2008 Olympic Medal**
+
+Project link: https://github.com/dontrann/Tran-Data-Science-Portfolio/tree/main/TidyData-Project 
+- This project focuses on cleaning, organizing, and visualizing data from the 2008 Summer Olympics using Python and pandas.
+  
+- I applied tidy data principles to transform the original dataset into a more organized format. I also created a pivot table and two visualizations to explore medalist records by gender, medal type, and sport.
+
+This project adds to my coding portfolio by demonstrating my ability to clean and transform data, use Python for data analysis, and create visualizations to better understand a dataset.
