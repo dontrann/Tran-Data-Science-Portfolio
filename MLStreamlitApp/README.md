@@ -15,7 +15,7 @@ Users can:
 
 ## 2. Live App
 
-**Streamlit App:** Link will be added after deployment.
+**Streamlit App:** https://tran-data-science-portfolio-af9wyjpd5sg2ngj4gypecp.streamlit.app
 
 ### 3. How to Run Locally
 
